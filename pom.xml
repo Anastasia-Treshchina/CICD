@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>webinar_18_02</artifactId>
+    <artifactId>CICD</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
